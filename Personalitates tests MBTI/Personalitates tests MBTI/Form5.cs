@@ -20,13 +20,13 @@ namespace Personalitates_tests_2
         };
         string[] pozitivi3 = new string[]
         {
-            "Prāts",
+            "Prātam",
             "Jā",
             "Nestrādātu"
         };
         string[] negativi3 = new string[]
         {
-            "Sirds",
+            "Sirdij",
             "Nē",
             "Strādātu"
         };
